@@ -5,7 +5,19 @@
 
 This is a lib common support excel document by [Golang](https://go.dev/)
 
-## Install
+## Installation remote
+
+```bash
+go get github.com/pnguyen215/ngx-goexcel@v1.0.0
+```
+
+or
+
+```bash
+go get -u github.com/pnguyen215/ngx-goexcel@v1.0.0
+```
+
+## Installation local (after checkout local)
 
 ```bash
 go mod tidy
